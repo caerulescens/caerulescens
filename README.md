@@ -1,6 +1,6 @@
-# Welcome!
+# Hey
 
-I'm an engineer from the South, and I write software for cluster computing. 
+I'm an engineer from the South, and I write software for cluster computing.
 
 ## Tools
 
