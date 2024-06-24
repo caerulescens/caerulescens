@@ -20,5 +20,5 @@ I'm an engineer from the South, and I write software for cluster computing.
 
 * 🚧 [Genericware Whitepaper](https://github.com/genericware/whitepaper)
 * 🚧 [Streaming Outlier Detection](https://github.com/caerulescens/sod)
-* 🚧 [Forecasting Daily Closing Values](https://github.com/caerulescens/forecasting-daily-closing-values)
+* [Forecasting Daily Closing Values](https://github.com/caerulescens/forecasting-daily-closing-values)
 * 🚧 [Financial Analysis with Artificial Neural Networks](https://github.com/caerulescens/financial-analysis-with-artificial-neural-networks)
